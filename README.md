@@ -32,7 +32,7 @@ pip install mediapipe==0.10.13 opencv-python pygame
 
 ## Usage
 
-## From the project folder:
+From the project folder:
 
 ```bash
 python rocklook.py
