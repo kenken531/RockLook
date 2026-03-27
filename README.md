@@ -28,7 +28,13 @@ pip install mediapipe==0.10.13 opencv-python pygame
 1. Clone this repository or download the script.
 2. Place any `music.mp3` file next to the script.
 3. Ensure your webcam is connected and not used by other apps.
-4. Install the required Python packages (see Requirements section).
+4. Install the required Python packages (see Requirements section or run:
+
+```
+pip install -r requirements.txt
+```
+
+after downloading `requirements.txt`)
 
 ## Usage
 
